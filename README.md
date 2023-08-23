@@ -1,2 +1,2 @@
-# py_code_test
+# Calculator implemented in python.
 Repository created for class purposes.
